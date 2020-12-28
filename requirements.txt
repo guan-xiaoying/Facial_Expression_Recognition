@@ -1,9 +1,9 @@
 flask
-pytorch==1.2.0
+pytorch
 torchvision
 numpy
-opencv-python==4.0.0
-dlib==19.8.1
+opencv-python
+dlib
 pathlib
 sys
 os
