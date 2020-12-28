@@ -5,5 +5,4 @@ numpy
 opencv-python
 dlib
 pathlib
-os
 PIL
