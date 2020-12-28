@@ -1,5 +1,5 @@
 flask
-pytorch
+torch
 torchvision
 numpy
 opencv-python
