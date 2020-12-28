@@ -1,11 +1,7 @@
-build-essential cmake
-libgtk-3-dev
-libboost-all-dev
 flask
 torch
 torchvision
 numpy
 opencv-python
-boost
-dlib
+dlib-19.17.99-cp37-cp37m-win_amd64.whl
 pathlib
